@@ -97,7 +97,7 @@ body{
 .header {
   position:relative;
   text-align:center;
-  background-image: url(wave1.png);
+  background-image: url(images/wave1.png);
   background-size: cover;
   background-repeat: no-repeat;
   color:white;
@@ -207,7 +207,7 @@ body{
 
 
 .spy {
-    background-image: url('spy3.png');
+    background-image: url('images/spy3.png');
     height: 30vh; 
     background-attachment: fixed;
     background-position: center;
@@ -216,7 +216,7 @@ body{
   }
 
   .spy2 {
-    background-image: url('spy2.png');
+    background-image: url('images/spy2.png');
     height: 30vh; 
     background-attachment: fixed;
     background-position: center;
@@ -382,7 +382,7 @@ body{
 
 .countdown-container {
    font-family:sans-serif;
-    background-image: url('spy2.png');
+    background-image: url('images/spy2.png');
     background-size: cover;
     background-position: center;
     /* Adjust padding as needed */
